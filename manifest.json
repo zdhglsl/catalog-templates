@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "updated": "2026-10-02 04:26:55",
+  "colors": [
+    {
+      "id": "blue_water",
+      "name": "蓝水乐园（默认）",
+      "file": "colors/blue_water.json"
+    },
+    {
+      "id": "fresh_green",
+      "name": "清新绿（亲子）",
+      "file": "colors/fresh_green.json"
+    },
+    {
+      "id": "sunset_orange",
+      "name": "活力橙（童趣）",
+      "file": "colors/sunset_orange.json"
+    },
+    {
+      "id": "dark_business",
+      "name": "深蓝商务（专业）",
+      "file": "colors/dark_business.json"
+    }
+  ],
+  "copy": [
+    {
+      "id": "正式·源头厂家",
+      "name": "正式·源头厂家",
+      "file": "copy/00.json"
+    },
+    {
+      "id": "营销·亲切版",
+      "name": "营销·亲切版",
+      "file": "copy/01.json"
+    },
+    {
+      "id": "简洁·一目了然",
+      "name": "简洁·一目了然",
+      "file": "copy/02.json"
+    },
+    {
+      "id": "高端·品质工艺",
+      "name": "高端·品质工艺",
+      "file": "copy/03.json"
+    },
+    {
+      "id": "工程·项目招标",
+      "name": "工程·项目招标",
+      "file": "copy/04.json"
+    },
+    {
+      "id": "亲子·研学教育",
+      "name": "亲子·研学教育",
+      "file": "copy/05.json"
+    },
+    {
+      "id": "Foreign_Trade_·_EN",
+      "name": "Foreign Trade · EN",
+      "file": "copy/06.json"
+    }
+  ]
+}
